@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Integrating razorpay into your webapp"
+layout: page
+title:  "About"
 date:   2021-03-23 21:03:36 +0530
 permalink: "/about/"
 categories: pages
