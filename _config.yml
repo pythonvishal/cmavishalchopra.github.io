@@ -1,5 +1,5 @@
-title: PythonVishal - Python For Business and Finance
-author: GitHub User
+title: Python For Business and Finance
+author: VISHAL CHOPRA
 email: admin@pythonvishal.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Pythonvishal documentaion repository. Data Analysis, JavaScript and Python Programming, Database tips, hacking guides.
@@ -11,10 +11,10 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: VISHAL CHOPRA
-  tagline: Developer. Designer
+  tagline: Developer, Accountant, Data Analyst
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
-  search: true # set to true to enable searchbar
+  search: false # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
   portfolio_image: "assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)
   html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
