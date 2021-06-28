@@ -1,10 +1,8 @@
-title: Your awesome title
+title: PythonVishal - Documentation Blog
 author: GitHub User
-email: your-email@domain.com
+email: admin@pythonvishal.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Pythonvishal documentaion repository. Data Analysis, JavaScript and Python Programming, Database tips, hacking guides.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -12,7 +10,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
+  name: VISHAL CHOPRA
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
@@ -26,9 +24,9 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: samarsault
-    github:  samarsault
-    linkedIn: in/samarsault
+    twitter: pythonvishal
+    github:  pythonvishal
+    linkedIn: in/pythonvishal
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
