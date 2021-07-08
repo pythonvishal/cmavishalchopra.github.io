@@ -6,10 +6,10 @@
   <!-- add description and keywords for SEO -->
   {% seo %}
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  {% if page.keywords %}
- <meta name="keywords" content="{{ page.keywords }}" />
+  {% if page.robots %}
+  <meta name="keywords" content="index, follow" />
   {% else %}
- <meta name="keywords" content="Nikhita Raghunath, nikki15, nikinath, nikhita, jekyll, blog, seo, github pages, rust, competetive programming, female, women in tech, open source, software development, introduction, tutorial, beginners, dummies, containers, women, woman, linux, docker, kubernetes, containers, system programming, computers, github" />
+  <meta name="keywords" content="noindex, nofollow" />
  {% endif %}
   {% if site.name %}
   <meta name="author" content="{{ site.name }}">
