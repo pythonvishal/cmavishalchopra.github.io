@@ -16,7 +16,7 @@ permalink: :title
 cover: "/assets/header_image.jpg"
 logo: "/assets/nr-logo.jpg"
 avatar: "/assets/headshot.jpg"
-ga_tracking_id: "UA-82647777-1"
+ga_tracking_id: ""
 
 # Build settings
 markdown: kramdown
@@ -185,6 +185,6 @@ protocols:
 
     twitter_image: "/assets/nr-logo.jpg"
 
-    os_repo: "https://github.com/nikhita/nikhita.github.io"
+    os_repo: "https://github.com/pythonvishal/pythonvishal.github.io"
     os_rcs_type: "git"
-    os_src: "git@github.com:nikhita.github.io.git"
+    os_src: "git@github.com:pythonvishal.github.io.git"
