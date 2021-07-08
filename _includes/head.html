@@ -7,9 +7,9 @@
   {% seo %}
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   {% if page.robots %}
-  <meta name="keywords" content="index, follow" />
+  <meta name="robots" content="index, follow" />
   {% else %}
-  <meta name="keywords" content="noindex, nofollow" />
+  <meta name="robots" content="noindex, nofollow" />
  {% endif %}
   {% if site.name %}
   <meta name="author" content="{{ site.name }}">
