@@ -4,6 +4,7 @@ title: SEO for Jekyll blogs
 description: This is a detailed tutorial for making your SEO compatible. It covers every thing that you need to do - step by step!
 comments: true
 image: /images/seo-example.jpg
+permalink: /content/
 ---
 
 Previously, I wrote about [how to make a Jekyll blog](https://nikhita.github.io/build-blog-using-github-jekyll). In this post, I'll talk about how you can make that blog SEO compatible. 
