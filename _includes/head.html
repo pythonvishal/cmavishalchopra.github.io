@@ -5,16 +5,11 @@
 
   <!-- add description and keywords for SEO -->
   {% seo %}
-  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   {% if page.robots %}
   <meta name="robots" content="index, follow" />
   {% else %}
   <meta name="robots" content="noindex, nofollow" />
  {% endif %}
-  {% if site.name %}
-  <meta name="author" content="{{ site.name }}">
-  <meta name="copyright" content="&copy; {{ site.name }} {{ site.time | date: '%Y' }}">
-  {% endif %}
 
   <!-- External libraries -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
