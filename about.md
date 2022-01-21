@@ -6,6 +6,6 @@ permalink: /about/
 ---
 <br>
 
- <img src="{{site.avatar}}" class="avatar-round"/>
+ <!-- <img src="{{site.avatar}}" class="avatar-round"/> -->
 
 Hey there! I am vishal chopra and I dabble in distributed systems and open source.
