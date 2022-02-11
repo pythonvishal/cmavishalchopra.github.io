@@ -1,16 +1,16 @@
 
 # Site settings
-title: Python Vishal
+title: Vishal Chopra's Personal Blog
 name: Vishal Chopra
 subtitle:
-email: admin@pythonvishal.com
+email: admin@vishalchopra.in
 description:
 baseurl: ""
-url: "https://pythonvishal.github.io"
-twitter_username: pythonvishal
-github_username:  pythonvishal
-disqus_baseurl: "https://pythonvishal.github.io/"
-disqus_shortname: pythonvishal
+url: "https://vishalkrchopra.github.io"
+twitter_username: vishalkrchopra
+github_username:  vishalkrchopra
+disqus_baseurl: "https://vishalkrchopra.github.io/"
+disqus_shortname: vishalkrchopra
 permalink: :title
 cover: "/assets/header_image.jpg"
 logo: "/assets/nr-logo.jpg"
@@ -64,7 +64,7 @@ social:
   - name: Twitter
     icon: twitter
     username: pythonvishal
-    url: https://twitter.com/pythonvishal
+    url: https://twitter.com/vishalkrchopra
     desc: Follow me on Twitter
     share: true
 
@@ -78,14 +78,14 @@ social:
   - name: GitHub
     icon: github
     username: vishal chopra
-    url: https://github.com/pythonvishal
+    url: https://github.com/vishalkrchopra
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
     username: pythonvishal
-    url: https://in.linkedin.com/in/pythonvishal
+    url: https://in.linkedin.com/in/vishalkrchopra
     desc: Connect with me on LinkedIn
     share: true
 
